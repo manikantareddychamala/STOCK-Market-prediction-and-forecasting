@@ -19,6 +19,10 @@ Clean the data, handle missing values, and preprocess it for model training. Thi
 # 3.Feature Selection/Engineering: 
 Choose relevant features that can help predict stock prices. These features could include historical prices, volume, moving averages, technical indicators like MACD, RSI, etc., and possibly external factors like news sentiment, economic indicators, etc.
 
+[
+![image](https://github.com/manikantareddychamala/STOCK-Market-prediction-and-forecasting/assets/162694056/16256a1f-79fb-4889-b3eb-5c9ba6e929da)
+](url)
+
 # 4.Model Selection: 
 Decide on a model or models to use for prediction. Common choices include linear regression, ARIMA, LSTM, or more advanced machine learning techniques like Random Forests or Gradient Boosting Machines (GBM).
 
