@@ -1,3 +1,7 @@
+[
+![image](https://github.com/manikantareddychamala/STOCK-Market-prediction-and-forecasting/assets/162694056/fc2bc70c-5edc-46bf-b8c5-962e816ea4ef)
+](url)
+
 # STOCK-Market-prediction-and-forecasting
 https://github.com/manikantareddychamala/STOCK-Market-prediction-and-forecasting/assets/162694056/100e626d-7287-43e1-a25a-e72bd42a3b52
 
